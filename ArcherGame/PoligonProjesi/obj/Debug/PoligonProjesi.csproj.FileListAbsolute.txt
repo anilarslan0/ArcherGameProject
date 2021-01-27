@@ -1,0 +1,14 @@
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\bin\Debug\PoligonProjesi.exe.config
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\bin\Debug\PoligonProjesi.exe
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\bin\Debug\PoligonProjesi.pdb
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.csprojAssemblyReference.cache
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.Properties.Resources.resources
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.csproj.GenerateResource.cache
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.exe
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.pdb
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.AnaForm.resources
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\bin\Debug\Poligon.Library.dll
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\bin\Debug\Poligon.Library.pdb
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.csproj.CopyComplete
+C:\Users\anlar\source\repos\Poligon\PoligonProjesi\obj\Debug\PoligonProjesi.AcilisEkrani.resources

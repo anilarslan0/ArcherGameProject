@@ -1,0 +1,6 @@
+C:\Users\anlar\source\repos\Poligon\Poligon.Library\bin\Debug\Poligon.Library.dll
+C:\Users\anlar\source\repos\Poligon\Poligon.Library\bin\Debug\Poligon.Library.pdb
+C:\Users\anlar\source\repos\Poligon\Poligon.Library\obj\Debug\Poligon.Library.csprojAssemblyReference.cache
+C:\Users\anlar\source\repos\Poligon\Poligon.Library\obj\Debug\Poligon.Library.csproj.CoreCompileInputs.cache
+C:\Users\anlar\source\repos\Poligon\Poligon.Library\obj\Debug\Poligon.Library.dll
+C:\Users\anlar\source\repos\Poligon\Poligon.Library\obj\Debug\Poligon.Library.pdb
